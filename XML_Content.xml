@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE results SYSTEM "https://qa.quotemedia.com/data/dtds/deltaService.dtd">
+<results modifieddate="2020-03-19" count="12">
+    <copyright>Copyright (c) 2023 QuoteMedia, Inc.</copyright>
+    <result symbolstring="ADEN:CA">
+        <symbol>ADEN:CA</symbol>
+        <exchange>TSX</exchange>
+        <exLgName>Toronto Stock Exchange</exLgName>
+        <exShName>TSX</exShName>
+    </result>
+    <result symbolstring="CHW:CA">
+        <symbol>CHW:CA</symbol>
+        <exchange>TSX</exchange>
+        <exLgName>Toronto Stock Exchange</exLgName>
+        <exShName>TSX</exShName>
+    </result>
+    <result symbolstring="CNE:CA">
+        <symbol>CNE:CA</symbol>
+        <exchange>TSX</exchange>
+        <exLgName>Toronto Stock Exchange</exLgName>
+        <exShName>TSX</exShName>
+    </result>
+    <result symbolstring="DN:CA">
+        <symbol>DN:CA</symbol>
+        <exchange>TSX</exchange>
+        <exLgName>Toronto Stock Exchange</exLgName>
+        <exShName>TSX</exShName>
+    </result>
+    <result symbolstring="FIL:CA">
+        <symbol>FIL:CA</symbol>
+        <exchange>TSX</exchange>
+        <exLgName>Toronto Stock Exchange</exLgName>
+        <exShName>TSX</exShName>
+    </result>
+    <result symbolstring="FSZ:CA">
+        <symbol>FSZ:CA</symbol>
+        <exchange>TSX</exchange>
+        <exLgName>Toronto Stock Exchange</exLgName>
+        <exShName>TSX</exShName>
+    </result>
+    <result symbolstring="HLS:CA">
+        <symbol>HLS:CA</symbol>
+        <exchange>TSX</exchange>
+        <exLgName>Toronto Stock Exchange</exLgName>
+        <exShName>TSX</exShName>
+    </result>
+    <result symbolstring="PMT:CA">
+        <symbol>PMT:CA</symbol>
+        <exchange>TSX</exchange>
+        <exLgName>Toronto Stock Exchange</exLgName>
+        <exShName>TSX</exShName>
+    </result>
+    <result symbolstring="POW:CA">
+        <symbol>POW:CA</symbol>
+        <exchange>TSX</exchange>
+        <exLgName>Toronto Stock Exchange</exLgName>
+        <exShName>TSX</exShName>
+    </result>
+    <result symbolstring="PPTA:CA">
+        <symbol>PPTA:CA</symbol>
+        <exchange>TSX</exchange>
+        <exLgName>Toronto Stock Exchange</exLgName>
+        <exShName>TSX</exShName>
+    </result>
+    <result symbolstring="TNZ:CA">
+        <symbol>TNZ:CA</symbol>
+        <exchange>TSX</exchange>
+        <exLgName>Toronto Stock Exchange</exLgName>
+        <exShName>TSX</exShName>
+    </result>
+    <result symbolstring="WRN:CA">
+        <symbol>WRN:CA</symbol>
+        <exchange>TSX</exchange>
+        <exLgName>Toronto Stock Exchange</exLgName>
+        <exShName>TSX</exShName>
+    </result>
+</results>
